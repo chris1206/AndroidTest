@@ -19,6 +19,9 @@ import static org.junit.Assert.*;
  */
 public class ExampleUnitTest {
 
+    /**
+     * 通过手写Rxjava，学习rxjava的create创建流程以及高级泛型的用法
+     */
     @Test
     public void test_rxjava(){
 
